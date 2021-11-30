@@ -4,3 +4,7 @@ coding user interface
 
 dark mode
 video calls
+
+payment option 
+scan and pay
+
